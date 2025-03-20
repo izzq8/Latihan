@@ -1,0 +1,82 @@
+/* Styling untuk tampilan utama */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Container utama */
+h1 {
+  color: #333;
+}
+
+/* Form input */
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 8px;
+  width: 200px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+
+button {
+  padding: 8px 12px;
+  border: none;
+  background-color: #1eff00c6;
+  color: black;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Daftar tugas */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: white;
+  padding: 10px;
+  margin: 5px auto;
+  width: 300px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+li input {
+  width: 70%;
+}
+
+li button {
+  margin-left: 5px;
+  color: white;
+  background-color: #dc3545;
+}
+
+li button:hover {
+  background-color: #c82333;
+}
+
+/* Tombol Edit */
+button.edit {
+  background-color: #007bff; /* Warna biru */
+  color: white;
+}
+
+button.edit:hover {
+  background-color: #0056b3; /* Warna biru lebih gelap saat hover */
+}
+
