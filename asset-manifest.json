@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pertemuan5_appjadwal/static/css/main.4f330401.css",
+    "main.js": "/pertemuan5_appjadwal/static/js/main.cfa4b5f4.js",
+    "static/js/453.82489804.chunk.js": "/pertemuan5_appjadwal/static/js/453.82489804.chunk.js",
+    "index.html": "/pertemuan5_appjadwal/index.html",
+    "main.4f330401.css.map": "/pertemuan5_appjadwal/static/css/main.4f330401.css.map",
+    "main.cfa4b5f4.js.map": "/pertemuan5_appjadwal/static/js/main.cfa4b5f4.js.map",
+    "453.82489804.chunk.js.map": "/pertemuan5_appjadwal/static/js/453.82489804.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f330401.css",
+    "static/js/main.cfa4b5f4.js"
+  ]
+}
